@@ -1,3 +1,0 @@
-this text file is at level 1
-
-this will be reverted
