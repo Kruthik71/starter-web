@@ -1,0 +1,7 @@
+#MyFile.txt
+#*.ext
+#my-folder/
+
+#file to be ignored are written here
+
+humans.txt
